@@ -409,6 +409,7 @@
 				AFFDD0931B1B4E47009EE4E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AFFDD0941B1B4E47009EE4E0 /* Build configuration list for PBXNativeTarget "AlertController_15_05_31Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				AFFDD0961B1B4E47009EE4E0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
